@@ -19,6 +19,7 @@
 	<dependencies>	
 	<!-- Unit Test -->
 		<dependency>
+			<suraj>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
